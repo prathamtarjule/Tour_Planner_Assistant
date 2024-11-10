@@ -26,14 +26,16 @@ Welcome to the **One-Day Tour Planning Assistant**! This intelligent chat-driven
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/tour-planning-assistant.git
-   cd tour-planning-assistant
+   git@github.com:prathamtarjule/Tour_Planner_Assistant.git
+   cd Tour_Planner_Assistant
 2. Install required libraries
    ```bash
    pip install -r requirements.txt
 3. Start the backend API
-   ```bash 
+   ```bash
+   cd backend
    uvicorn main:app --reload
 4. Start the frontend API
    ```
+   cd frontend
    streamlit run app.py
