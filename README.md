@@ -28,7 +28,7 @@ Welcome to the **One-Day Tour Planning Assistant**! This intelligent chat-driven
    ```bash
    git clone https://github.com/yourusername/tour-planning-assistant.git
    cd tour-planning-assistant
-2. Install reuired libraries
+2. Install required libraries
    ```bash
    pip install -r requirements.txt
 3. Start the backend API
