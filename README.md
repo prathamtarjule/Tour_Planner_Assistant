@@ -26,7 +26,7 @@ Welcome to the **One-Day Tour Planning Assistant**! This intelligent chat-driven
 
 1. Clone the repository:
    ```bash
-   git@github.com:prathamtarjule/Tour_Planner_Assistant.git
+   git clone https://github.com/prathamtarjule/Tour_Planner_Assistant.git
    cd Tour_Planner_Assistant
 2. Install required libraries
    ```bash
