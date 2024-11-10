@@ -28,3 +28,12 @@ Welcome to the **One-Day Tour Planning Assistant**! This intelligent chat-driven
    ```bash
    git clone https://github.com/yourusername/tour-planning-assistant.git
    cd tour-planning-assistant
+2. Install reuired libraries
+   ```bash
+   pip install -r requirements.txt
+3. Start the backend API
+   ```bash 
+   uvicorn main:app --reload
+4. Start the frontend API
+   ```
+   streamlit run app.py
